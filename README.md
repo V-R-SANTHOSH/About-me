@@ -19,7 +19,7 @@
 * 
 * 
 * 
-* I would like to take you to my certificate page, are u willing to come  Yes       No
+* I would like to take you to my certificate page
 
 * 
 *  
