@@ -6,8 +6,6 @@
 
 <p><em> Of course, many employees had done their undergraduate in related to Data Science & AI and have relevant experience. Still, I firmly believe that even Medical doctors and Clinicians can contribute to the health sector more than people with engineering degrees by acquiring the required knowledge. My journey towards learning these latest technologies started during the lockdown of the Covid - 19 pandemic. Till now, I used those valuable days just to upgrade and equip myself to work with these technologies. I am willing to work in MedTech companies and Research and Development to provide better solutions to complex Healthcare problems with my acquired knowledge. Here are a few Modules I've learned recently. </em> </p>
 
- <p>&nbsp;</p>     
-
 <em>1. Python </em> 
 <em>2. EDA </em>    
 <em>3. MySQL </em>
@@ -15,6 +13,6 @@
 <em>5. Supervised Learning - Regression and Classification     </em>             
 <em>6. Unsupervised learning </em>
   
-  
+ <p>&nbsp;</p>   
   
 I recommed to see my <em>[Testimonial page](https://v-r-santhosh.github.io/Testimonials/)</em> also.
