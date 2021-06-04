@@ -9,8 +9,8 @@
 <em>1. Python </em> 
 <em>2. EDA </em>    
 <em>3. MySQL </em>
-<em>4. Hypothesis Testing     </em>
-<em>5. Supervised Learning - Regression and Classification     </em>             
+<em>4. Hypothesis Testing </em>
+<em>5. Supervised Learning - Regression and Classification </em>             
 <em>6. Unsupervised learning </em>
   
  <p>&nbsp;</p>   
