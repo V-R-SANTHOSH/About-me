@@ -8,7 +8,7 @@
 1. Python 
 2. EDA  
 3. MySQL 
-4. Hypothesis Testing 
+4. Hypothesis & statistical Testing 
 5. Supervised Learning - Regression and Classification      
 6. Unsupervised learning
   
