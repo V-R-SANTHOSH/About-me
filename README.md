@@ -1,9 +1,9 @@
 
 ### Hello reader! I would love to give you a glimpse of myself. 
 
-   I'm V.R. Santhosh, a clinician learning Data Science and AI to apply that in Healthcare. Yes, I understand what is running in your mind. In the non- Hygienic practice in the clinics, I was dissatisfied with being a clinician, which I am unwilling to do to my patients. On the other hand, I was not financially sound to have a clinic and practice dentistry that I'm willing to provide to my patients. I have to accept that Healthcare is a precious field, and I always admired being a part of it. Even though I don't like to be a clinician, I still willing to contribute with the latest technologies, which will be helpful in the health domain.
+   I'm V.R. Santhosh, a clinician learning Data Science and AI to apply that in Healthcare. I completed my undergraduate degree B.D.S (Dentistry) from India. Yes, I understand what is running in your mind. I had worked in few nearby clinics, but it was concise because of the non- Hygienic practice in those clinics.  I was dissatisfied with being a clinician, which I am unwilling to do to my patients. On the other hand, I was not financially sound to have my own clinic and practice dentistry that I'm willing to provide to my patients.  I have to accept that Healthcare is a precious field, and I always admired being a part of it. Even though I don't like to be a clinician, I'm still willing to contribute to this domain with my acquiring skills.
 
-   Of course, many employees had done their undergraduate in related to Data Science & AI and have relevant experience. Still, I firmly believe that even Medical doctors and Clinicians can contribute to the health sector more than people with engineering degrees by acquiring the required knowledge. My journey towards learning these latest technologies started during the lockdown of the Covid - 19 pandemic. Till now, I used those valuable days just to upgrade and equip myself to work with these technologies. I am willing to work in MedTech companies and Research & Development to provide better solutions to complex Healthcare problems with my acquired knowledge. Here are a few Modules I've learned recently.
+   Of course, I do accept many employees had done their undergraduate in related to Data Science & AI and have relevant experience. Still, I firmly believe that even Medical students and Clinicians can contribute more than people with engineering degrees by acquiring the required knowledge. My journey towards learning these technologies started during the lockdown period of the Covid - 19 pandemics. Till now, I used those valuable days just to upgrade and equip myself to work with these technologies. Currently, I am doing a Post Graduate Certificate in Data Science from the Great Lakes Institute Of Management. I am willing to work in AI-based MedTech and pharma companies, particularly in Research & Development wing, to provide better solutions to complex Healthcare problems with my acquired knowledge. Here are a few tools and modules  I've been learning recently. Please don't hesitate to __[*reach me*](https://docs.google.com/forms/d/e/1FAIpQLSea7AXZtAuFDGXJ0C9DbAwrEplCFFLaA-JHFeZ2PGmkX0bGKw/viewform?usp=sf_link)__ for more. 
 
 1. Python 
 2. EDA  
@@ -14,4 +14,4 @@
   
  <p>&nbsp;</p>   
   
-**I recommed to see my <em>[Testimonial page](https://v-r-santhosh.github.io/Testimonials/)</em> also**.
+__I recommed to see my [*Testimonial page*](https://v-r-santhosh.github.io/Testimonials/) also__.
